@@ -14,20 +14,18 @@ export default function Sponsors() {
             </p>
             <div className="mt-8 sm:flex">
               <div className="rounded-md shadow">
-                <a
-                  href="#sponsors"
+                <button
                   className="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
                 >
                   Become a Sponsor
-                </a>
+                </button>
               </div>
               <div className="mt-3 sm:mt-0 sm:ml-3">
-                <a
-                  href="#sponsors"
+                <button
                   className="flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-800 bg-indigo-200 hover:bg-indigo-100"
                 >
                   Contact Us
-                </a>
+                </button>
               </div>
             </div>
           </div>
